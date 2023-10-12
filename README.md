@@ -1,7 +1,13 @@
+<style>
+    h3 {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
 <div align="center">
     <h1>Hi! 👋 I'm Loraine</h1>
     <h3>Data Scientist | Researcher | Problem solver</h3>
-    <hr style="border: none;">
 </div>
   
 <br/>  
