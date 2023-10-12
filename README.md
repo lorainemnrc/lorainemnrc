@@ -1,5 +1,7 @@
-# <div align="center">Hi! 👋 I'm Loraine
-### <div align="center"> Data Scientist | Researcher | Problem solver</div>  
+<div align="center">
+    <h1>Hi! 👋 I'm Loraine</h1>
+    <h3>Data Scientist | Researcher | Problem solver</h3>
+</div>
   
 <br/>  
 
