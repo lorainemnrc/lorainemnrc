@@ -1,9 +1,6 @@
 # <div align="center">Hi! 👋 I'm Loraine </div>  
-  
-
 ### <div align="center">Data Scientist | Researcher | Problem solver</div>  
   
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
