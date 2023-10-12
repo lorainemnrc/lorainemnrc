@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi! 👋 I'm Loraine</h1>
-    <p>Data Scientist | Researcher | Problem solver</p>
+    <h3>Data Scientist | Researcher | Problem solver</h3>
     <hr>
 </div>
   
