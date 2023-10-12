@@ -3,7 +3,7 @@
   
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=lorainemnrc&&style=flat-square)  
   
 
 - 🌱 I’m currently learning more about deep learning topics  
