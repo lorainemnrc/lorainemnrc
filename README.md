@@ -18,8 +18,6 @@
   
 
 - ⚡ Fun fact: I'm always down for a chat over coffee!  
-  
-<br/> 
 
 ## Connect with me
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorainemnrc/" target="_blank">
@@ -29,6 +27,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 
+<br/> 
 <br/> 
 
 ## Languages and Tools  
