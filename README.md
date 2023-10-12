@@ -33,7 +33,8 @@
 <a href="https://medium.com/https://medium.com/@lorainemnrc" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
+
+<br/> 
 
 ## Languages and Tools  
 <div align="center">  
@@ -78,5 +79,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
