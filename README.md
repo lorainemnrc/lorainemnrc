@@ -58,13 +58,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorainemnrc&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
