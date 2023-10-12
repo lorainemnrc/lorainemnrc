@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi! 👋 I'm Loraine</h1>
     <h3>Data Scientist | Researcher | Problem solver</h3>
-    <hr>
+    <hr style="border: none;">
 </div>
   
 <br/>  
