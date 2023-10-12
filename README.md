@@ -1,5 +1,5 @@
 # <div align="center">Hi! 👋 I'm Loraine
-### Data Scientist | Researcher | Problem solver</div>  
+### <div align="center"> Data Scientist | Researcher | Problem solver</div>  
   
 <br/>  
 
