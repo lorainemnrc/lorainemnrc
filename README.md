@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact: I'm always down for a chat over coffee!  
   
+<br/> 
 
 ## Connect with me
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorainemnrc/" target="_blank">
