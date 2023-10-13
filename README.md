@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning more about deep learning topics  
   
 
-- 👩‍💻 Check out my projects at [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 👩‍💻 Check out my projects at https://lorainemnrc.github.io/
   
 
 - 📝 I occasionally write blogs at https://medium.com/@lorainemnrc  
