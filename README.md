@@ -26,6 +26,9 @@
 <a href="https://medium.com/https://medium.com/@lorainemnrc" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="LMenorca@outlook.com" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 
 <br/> 
 <br/> 
